@@ -64,3 +64,17 @@ h2 {
 
 }
 
+.email-button {
+    display: inline-block;
+    background-color: #06417c;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.email-button:hover {
+    background-color: #042a42;
+}
